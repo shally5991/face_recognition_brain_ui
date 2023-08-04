@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/face_recognition_brain_ui/static/css/main.510ff824.css",
+    "main.js": "/face_recognition_brain_ui/static/js/main.822e7073.js",
+    "index.html": "/face_recognition_brain_ui/index.html",
+    "main.510ff824.css.map": "/face_recognition_brain_ui/static/css/main.510ff824.css.map",
+    "main.822e7073.js.map": "/face_recognition_brain_ui/static/js/main.822e7073.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510ff824.css",
+    "static/js/main.822e7073.js"
+  ]
+}
